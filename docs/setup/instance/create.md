@@ -99,7 +99,7 @@ you can also set all logs to a single channel
 ## Link Instance to Server
 
 {: .attention}
-DO NOT share your activation key with anyon
+DO NOT share your activation key with anyone
 
 After creating the instance, you need to paste a command similar to this into your server console.
 Make sure to replace `<cedmod_activation_key>` with your key
